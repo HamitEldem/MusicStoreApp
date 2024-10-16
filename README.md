@@ -103,3 +103,8 @@ The project consists of several Java classes that model the core components of a
 ## Conclusion
 
 This project was an essential step in my journey to master Java programming. By combining OOP concepts like classes, constructors, encapsulation, and GUI elements, I gained practical experience and a deeper understanding of Java development. It also served as a testament to my motivation to learn from my mistakes and work harder to improve my skills.
+
+
+<img width="931" alt="Ekran Resmi 2024-10-16 20 36 43" src="https://github.com/user-attachments/assets/4c72f267-6bdc-4fde-acfa-d350ff650baa">
+
+
